@@ -1,7 +1,8 @@
 # SVGlogoMaker
   ## Desriptions
   It is to used to create an SVG logo (still work in progress)
-  ##Table of Contents
+
+  ## Table of Contents
   
   - [Installation](#Installation)
   - [Usage](#Usage)
